@@ -1,0 +1,18 @@
+#Max Level range: (1-5)
+MaxLevel: 5
+Prefix: "&5[&bCombinedHit&5] "
+Cooldown:
+    lv1: 5.0
+    lv2: 7.5
+    lv3: 10.0
+    lv4: 12.5
+    lv5: 15.0
+Damage:
+    lv1: 5.0
+    lv2: 7.5
+    lv3: 10.0
+    lv4: 12.5
+    lv5: 15.0
+Players:
+    ddd5d298-1808-3f57-968b-30dfdabb1f9e:
+        Level: 1

@@ -1,0 +1,10 @@
+main: to.epac.factorycraft.CombinedHit.Main
+version: 0.1
+name: CombinedHit
+author: i998979
+description: Deal extra damage by combining left and right click
+commands:
+   CombinedHit:
+     aliases: [chit, ch]
+   ItemStackEditor:
+     aliases: [ise, ie]
